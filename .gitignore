@@ -1,3 +1,7 @@
 .idea
 
+# 打包输出
 out
+
+# 自己练习
+src/main/java/practise
